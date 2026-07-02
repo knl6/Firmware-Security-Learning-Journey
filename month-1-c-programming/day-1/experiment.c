@@ -19,7 +19,10 @@ int main(void) {
 
 
     printf("There once was a man named %d\n", characterName);
-    printf("he was %d years old\n",characterAge );
+    printf("he was %d years old\n",characterAge);
+
+    characterAge = 22;
+
     printf("he really liked the name %s\n",characterName);
     printf("but he did not like being %x\n", characterAge);
     return 0;
