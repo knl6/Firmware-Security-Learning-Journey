@@ -32,7 +32,6 @@ int main() {
 ```
 ## Output
 
-/Users/rabarca/CLionProjects/Firmware-Security-Learning-Journey/month-1-c-programming/day-3/Farenheitconverter
 Farenheit:98
 Converted:36
 
